@@ -119,7 +119,7 @@ export default function Hero() {
                 Turn Redditors into Customers
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-600">
-                1-minute setup, $59/month, cancel anytime
+                1-minute setup, $XX/month, cancel anytime
               </p>
               <div className="mt-10 flex items-center justify-center gap-x-6">
                 <a
