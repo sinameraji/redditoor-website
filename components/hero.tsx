@@ -7,8 +7,8 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 const navigation = [
   { name: 'Product', href: '#' },
   { name: 'Features', href: '#' },
-  { name: 'Marketplace', href: '#' },
-  { name: 'Company', href: '#' },
+  { name: 'Integrations', href: '#' },
+  { name: 'Pricing', href: '#' },
 ]
 
 export default function Hero() {
@@ -119,7 +119,7 @@ export default function Hero() {
                 Turn Redditors into Customers
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-600">
-                2 minute to setup, $/year, 100% automated, cancel anytime
+                1-minute setup, $59/month, cancel anytime
               </p>
               <div className="mt-10 flex items-center justify-center gap-x-6">
                 <a
